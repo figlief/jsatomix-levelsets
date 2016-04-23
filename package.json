@@ -1,0 +1,30 @@
+{
+  "name": "jsatomix-levelsets",
+  "version": "1.0.0",
+  "description": "Level sets for jsatomix",
+  "main": "levelsets.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/figlief/jsatomix-levelsets.git"
+  },
+  "keywords": [
+    "jsatomix",
+    "kp-atomix",
+    "game",
+    "puzzle",
+    "katomic",
+    "atomix"
+  ],
+  "author": "Robert Ledger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/figlief/jsatomix-levelsets/issues"
+  },
+  "homepage": "https://github.com/figlief/jsatomix-levelsets#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
